@@ -1,2 +1,2 @@
-This text is inside the feature branch
+This text is inside the main branch
 
