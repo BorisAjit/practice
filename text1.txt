@@ -1,1 +1,2 @@
-This is just some random text
+This text is inside the feature branch
+
